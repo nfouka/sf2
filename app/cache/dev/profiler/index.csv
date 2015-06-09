@@ -1,0 +1,11 @@
+714a25,127.0.0.1,GET,http://localhost:8000/,1433886782,7c0496,200
+7c0496,127.0.0.1,GET,http://localhost:8000/,1433886782,,404
+6583b0,127.0.0.1,GET,http://localhost:8000/myapp,1433886898,ce4768,200
+ce4768,127.0.0.1,GET,http://localhost:8000/myapp,1433886898,,500
+879883,127.0.0.1,GET,http://localhost:8000/myapp,1433886916,df88ee,200
+df88ee,127.0.0.1,GET,http://localhost:8000/myapp,1433886916,,404
+8e8ff9,127.0.0.1,GET,http://localhost:8000/hello/nadir,1433886922,,200
+e95256,127.0.0.1,GET,http://localhost:8000/hello/nadir,1433886989,,200
+42ac28,127.0.0.1,GET,http://localhost:8000/hello/nadir,1433887033,,200
+41d314,127.0.0.1,GET,http://localhost:8000/acme/nadir,1433887038,,200
+73b2c4,127.0.0.1,GET,http://localhost:8000/acme/nadir,1433889335,,200

@@ -1,0 +1,3 @@
+dciss_my_app_homepage:
+    path:     /acme/{name}
+    defaults: { _controller: "dcissMyAppBundle:Default:index" }
